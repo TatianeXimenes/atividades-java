@@ -1,8 +1,9 @@
 import java.util.Scanner;
+
 public class NumeroMaiorMenor {
 
 	public static void main(String[] args) {
-		numeroMaiorMenor numero = new numeroMaiorMenor();
+		NumeroMaiorMenor numero = new NumeroMaiorMenor();
 		
 		Scanner input = new Scanner(System.in);
 		System.out.print("Digite um número inteiro: ");
@@ -18,12 +19,12 @@ public class NumeroMaiorMenor {
 	
 	private int num1;
 	private int num2;
-	static void exibirInf(numeroMaiorMenor numero) {
+	static void exibirInf(NumeroMaiorMenor numero) {
 		if (numero.num1 == numero.num2) {
 			System.out.println("Os números são iguals.");
 		}	
 	}
-	static void exibirMaior(numeroMaiorMenor numero) {
+	static void exibirMaior(NumeroMaiorMenor numero) {
 		if (numero.num1 > numero.num2) {
 			System.out.println(numero.num1+ " É o maior valor.");
 		} else {
@@ -31,7 +32,7 @@ public class NumeroMaiorMenor {
 		} 
 	}
 
-	static void exibirMenor(numeroMaiorMenor numero) {
+	static void exibirMenor(NumeroMaiorMenor numero) {
 		if (numero.num1 < numero.num2) {
 			System.out.println(numero.num1+ " É o menor valor.");
 		} else {

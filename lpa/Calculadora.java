@@ -5,7 +5,7 @@ public class Calculadora {
 	private int num1;
 	private int num2;
 	public static void main(String[] args) {
-		calculadora numero = new calculadora();
+		Calculadora numero = new Calculadora();
 		
 		Scanner input = new Scanner(System.in);
 		System.out.print("Digite um número inteiro: ");

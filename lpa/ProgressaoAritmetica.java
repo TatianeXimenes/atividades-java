@@ -1,4 +1,3 @@
-package br.ucsal;
 
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-package br.ucsal;
 
 public class Recursao {
 /*fatorial de 5 

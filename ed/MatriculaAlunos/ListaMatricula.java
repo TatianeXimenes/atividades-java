@@ -1,4 +1,3 @@
-package br.ucsal.aula05;
 
 public class ListaMatricula {
 

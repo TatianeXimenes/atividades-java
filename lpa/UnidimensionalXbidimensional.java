@@ -1,6 +1,5 @@
-package br.ucsal;
 
-public class UnidimensionalXBidimensional {
+public class UnidimensionalXbidimensional {
 
 	public static void main(String[] args) {
 		int linha = 5, coluna = 6;

@@ -1,4 +1,3 @@
-package br.ucsal.aula04;
 
 public class ListaProfessores {
 

@@ -1,5 +1,5 @@
-package br.ucsal;
 import java.util.Scanner;
+
 public class TabuadaPersonalizada {
 
 	public static void main(String[] args) {
