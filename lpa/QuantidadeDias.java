@@ -1,6 +1,6 @@
 package br.ucsal;
 
-public class quantidadeDias {
+public class QuantidadeDias {
 
 	public static void main(String[] args) {
 		//Usando como para exemplo o inicio do ano de 1970

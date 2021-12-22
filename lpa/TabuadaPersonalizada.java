@@ -1,6 +1,6 @@
 package br.ucsal;
 import java.util.Scanner;
-public class tabiadaPersonalizada {
+public class TabuadaPersonalizada {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

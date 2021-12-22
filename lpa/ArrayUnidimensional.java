@@ -1,6 +1,6 @@
 package br.ucsal;
 
-public class arrayUnidimensional {
+public class ArrayUnidimensional {
 
 	public static void main(String[] args) {
 	//Criação de array unidimensional com sequencia aritmética de 20 valores inteiros iniciado com 3 tendo a razao o valor 5

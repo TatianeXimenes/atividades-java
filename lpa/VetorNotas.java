@@ -2,7 +2,7 @@ package br.ucsal;
 
 import java.util.Scanner;
 
-public class vetorNotas {
+public class VetorNotas {
 
 	public static void main(String[] args) {
         double[] unidade1 = obternotas();

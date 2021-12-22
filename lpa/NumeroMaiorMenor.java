@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class numeroMaiorMenor {
+public class NumeroMaiorMenor {
 
 	public static void main(String[] args) {
 		numeroMaiorMenor numero = new numeroMaiorMenor();

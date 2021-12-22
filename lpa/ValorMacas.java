@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class valorMacas {
+public class ValorMacas {
 
 	public static void main(String[] args) {
 			double unidMaca = 1.30;

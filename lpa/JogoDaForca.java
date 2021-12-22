@@ -2,7 +2,7 @@ package br.ucsal;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
-public class jogoDaForca {
+public class JogoDaForca {
 
 	public static void main(String[] args) {
 		// Criaçao da variavel que conta os erros durante as tentativas do usuário. Declaraçao da palavra. Alterando as letras da palavra por "_"

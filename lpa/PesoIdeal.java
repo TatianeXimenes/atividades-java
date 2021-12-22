@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class peso_ideal {
+public class Peso_ideal {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

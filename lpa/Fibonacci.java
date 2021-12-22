@@ -1,5 +1,5 @@
 
-public class fibonacci {
+public class Fibonacci {
 
 	public static void main(String[] args) {
 		int aValor = 0, pValor = 1;

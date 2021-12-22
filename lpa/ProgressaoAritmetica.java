@@ -2,7 +2,7 @@ package br.ucsal;
 
 import java.util.Scanner;
 
-public class progressaoAritmetica {
+public class ProgressaoAritmetica {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

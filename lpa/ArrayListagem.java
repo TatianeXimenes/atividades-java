@@ -1,5 +1,5 @@
 
-public class arrayListagem {
+public class ArrayListagem {
 
 	public static void main(String[] args) {
 		imprimir(obterValores1());
