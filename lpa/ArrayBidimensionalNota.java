@@ -1,6 +1,6 @@
 package br.ucsal;
 
-public class arrayBidimensionalNota {
+public class ArrayBidimensionalNota {
 
 	public static void main(String[] args) {
 		imprimir(obterArrayBid());
