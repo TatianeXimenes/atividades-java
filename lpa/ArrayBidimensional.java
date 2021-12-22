@@ -1,5 +1,5 @@
 
-public class arrayBidimensional {
+public class ArrayBidimensional {
 
 	public static void main(String[] args) {
 		imprimir(montarArrayBidim());
